@@ -18,3 +18,13 @@ New real files will be added to the db as they come into existence. There is not
 ## Run
 
 	./fstrie-web
+
+## Usage
+
+Navigate to [localhost:8080](http://localhost:8080).
+
+Default virtual page is at [root](http://localhost:8080/).
+
+Default real page is at [default.html](http://localhost:8080/default.html).
+
+Default 404 page is everywhere else!
