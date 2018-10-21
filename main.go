@@ -78,12 +78,6 @@ func walkRoot(path string) ([]string, error) {
 		return []string{}, nil
 	}
 
-	/*
-	for _, file := range fileList {
-		fmt.Println(file)
-	}
-	*/
-
 	return fileList[1:], nil
 }
 
